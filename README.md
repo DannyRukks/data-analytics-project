@@ -3,3 +3,4 @@
 This project showcases an end-to-end data warehousing and analytics solution, covering everything from warehouse development to the creation of actionable insights.
 
 #### Data Architecture
+![Architecture Diagrams](docs/architecture diagrams.jpg)
