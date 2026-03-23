@@ -13,6 +13,9 @@ This project presents an end-to-end data warehousing and analytics solution desi
 - **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 - **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+#### Analytics and Reporting
+This contains refined, business-ready data structured for reporting and analytics. Transformed data is modeled into a star schema with fact and dimension tables, making it easier to query, analyze, and visualize for business decision-making.
+
 
 
 
